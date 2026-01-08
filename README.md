@@ -80,3 +80,17 @@ http://localhost/pkaltim-[tim]
 | Presentasi (5 menit)    | 15%   |
 | Dokumentasi             | 10%   |
 **🏆 Web terbaik: Nilai tambah + shoutout Bapak Hendra!**
+
+---
+
+# Cara Pengumpulan (Komunitas Style)
+1. Tim fork repo pkaltim
+2. Edit submissions/tim-submissions.md:
+```
+Tim 1 - Wisata Alam Derawan
+Anggota: Glenn, Bregas, Reza
+Live: https://glenn.000webhostapp.com/wisata-alam
+Repo: github.com/glenn/tim1-wisata-alam
+Status: ✅ Live 2 Feb
+```
+3. Push → Pull Request ke PIC → approve → siap pengumpulan!
