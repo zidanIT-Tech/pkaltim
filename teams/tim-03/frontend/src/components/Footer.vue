@@ -3,7 +3,7 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>🍜 PKaltim Kuliner</h3>
+          <h3>Kaltim Kuliner</h3>
           <p>Platform informasi tentang wisata kuliner khas Kalimantan Timur</p>
         </div>
         <div class="footer-section">
@@ -18,7 +18,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; 2026 PKaltim Kuliner. All rights reserved.</p>
+        <p>&copy; 2026 Kaltim Kuliner. All rights reserved.</p>
       </div>
     </div>
   </footer>

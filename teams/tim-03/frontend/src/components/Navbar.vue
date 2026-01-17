@@ -3,7 +3,7 @@
     <div class="container">
       <div class="navbar-content">
         <router-link to="/" class="navbar-brand">
-          <h2>🍜 PKaltim Kuliner</h2>
+          <h2>Kaltim Kuliner</h2>
         </router-link>
         <div class="navbar-menu">
           <router-link to="/" class="navbar-link">Beranda</router-link>

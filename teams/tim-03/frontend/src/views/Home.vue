@@ -80,7 +80,8 @@ export default {
 
 <style scoped>
 .hero {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url('../assets/home-bg.jpg') no-repeat center center;
+  background-size: cover;
   color: white;
   padding: 6rem 0;
   text-align: center;

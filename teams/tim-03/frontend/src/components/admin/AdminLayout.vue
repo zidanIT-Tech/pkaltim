@@ -2,23 +2,23 @@
   <div class="admin-layout">
     <aside class="admin-sidebar">
       <div class="sidebar-header">
-        <h2>🍜 Admin Panel</h2>
+        <h2> Admin Panel</h2>
       </div>
       <nav class="sidebar-nav">
         <router-link to="/admin" class="nav-item" active-class="active">
-          📊 Dashboard
+           Dashboard
         </router-link>
         <router-link to="/admin/articles" class="nav-item" active-class="active">
-          📝 Artikel
+           Artikel
         </router-link>
         <router-link to="/admin/categories" class="nav-item" active-class="active">
-          📂 Kategori
+           Kategori
         </router-link>
         <router-link to="/" class="nav-item">
-          🔙 Kembali ke Website
+           Kembali ke Website
         </router-link>
         <button @click="handleLogout" class="nav-item nav-item-button">
-          🚪 Logout
+          🔙 Logout
         </button>
       </nav>
     </aside>
